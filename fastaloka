@@ -1,10 +1,9 @@
 {
   "latestVersion": "1.2",
-  "latestVersionCode": "7",
+  "latestVersionCode": "9",
   "url": "https://play.google.com/store/apps/details?id=com.fastaloka.app&hl=id",
   "releaseNotes": [
-    "- Update notifikasi Maintenance",
-    "- Update Animation logo",
-    "- Fix beberapa bug aplikasi"
+    "- Perbaikan refresh server",
+    "- Perbaikan beberapa bug aplikasi"
   ]
 }
